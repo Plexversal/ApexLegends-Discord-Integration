@@ -1,0 +1,10 @@
+{
+    "discord":{
+        "prefix": "~",
+        "ownerID": "264932076145475586",
+        "channelID": {
+            "testGeneral": "606943264754499656",
+            "apexReddit": "627577971032588298"
+        }
+    }
+}
